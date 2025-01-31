@@ -1,4 +1,4 @@
- 💫 About Me:
+# 💫 About Me:
 I am currently a student in the CSE department at the University of Rajshahi
 
 
