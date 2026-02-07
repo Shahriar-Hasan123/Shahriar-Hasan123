@@ -63,7 +63,7 @@ Recent Computer Science and Engineering graduate aiming to begin a professional 
 - **Token Authentication**: JWT and session-based authentication
 
 ### 🔹 Competitive Programming & Problem Solving
-- **1000+ Problems Solved** across multiple platforms
+- **1200+ Problems Solved** across multiple platforms
 - Strong expertise in:
   - Data Structures (Trees, Graphs, Heaps, Hash Tables)
   - Algorithms (Dynamic Programming, Greedy, Graph Algorithms)
@@ -71,7 +71,7 @@ Recent Computer Science and Engineering graduate aiming to begin a professional 
 - Regular practice and participation in online contests
 
 ### 🔹 Other Projects
-- **Deep Learning**: Exploring ML models with TensorFlow and Keras
+- **Deep Learning**: Exploring DL models with TensorFlow and Keras
 - **Web Development**: Experience with Laravel and PHP
 
 ---
